@@ -1,0 +1,12 @@
+{
+  "guacamoleVersion" : "*",
+
+  "name" : "CyVerse Branding",
+  "namespace" : "guac-cyverse-theme",
+
+  "html" : [ "html/cyverse.html" ],
+
+  "resources" : {
+    "resources/cyverse-logo.png" : "image/png"
+  }
+}
