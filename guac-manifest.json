@@ -7,7 +7,8 @@
 
   "html": [
     "html/cyverse.html",
-    "html/help.html"
+    "html/help.html",
+    "html/copy_paste_help.html"
   ],
 
   "js": [
