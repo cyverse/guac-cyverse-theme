@@ -1,21 +1,14 @@
 #help-section {
-  height: 10%;
-  z-index: 10;
   background-color: #0971ab;
-  color: rgba(0, 0, 0, 0.87);
-  font-size: 16px;
+  color: white;
+  font-size: 18px;
   font-family: Roboto,sans-serif;
-  padding: 5px;
-  width: 80%;
-  border-radius: 10px;
-  margin: auto;
-  overflow: scroll;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  padding-left: 25px;
+  font-weight: 200;
+  letter-spacing: 1px;
 }
 
-.client-view-content {
-  position: absolute;
+.client-view {
+  display: flex;
+  flex-direction: column;
 }
