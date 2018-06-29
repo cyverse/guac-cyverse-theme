@@ -11,10 +11,6 @@
     "html/copy_paste_help.html"
   ],
 
-  "js": [
-    "js/help.js"
-  ],
-
   "css": [ "css/help.css" ],
 
   "resources": {
