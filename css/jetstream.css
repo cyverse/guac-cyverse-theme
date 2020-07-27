@@ -1,0 +1,14 @@
+#help-section {
+  background-color: #ed174b;
+  color: white;
+  font-size: 18px;
+  font-family: Roboto,sans-serif;
+  padding-left: 25px;
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.client-view {
+  display: flex;
+  flex-direction: column;
+}

@@ -11,7 +11,7 @@
     "html/copy_paste_help.html"
   ],
 
-  "css": [ "css/help.css" ],
+  "css": [ "css/cyverse.css" ],
 
   "resources": {
     "resources/cyverse-logo.png": "image/png"
