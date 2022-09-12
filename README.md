@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS READONLY AND NO LONGER ACTIVE
+
 # guac-cyverse-theme
 
 A CyVerse/Jetstream theme for Apache Guacamole
